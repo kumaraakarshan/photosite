@@ -1,0 +1,429 @@
+.priceTopContainer {
+    padding: 10px;
+    display: flex;
+}
+
+.priceLeftContainer {
+    padding: 10px;
+    width: 29.554%;
+}
+
+.priceRightCONTRAINER {
+    width: 70.446%;
+    padding: 10px;
+}
+
+.contebtMAIN {
+    margin-top: 10px;
+}
+
+.contebtMAIN h3,
+.headingPrice3 {
+    font-size: 25px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-weight: 500;
+    line-height: 1;
+}
+
+.contebtMAIN h3 {
+    color: #b98587;
+    text-align: left;
+}
+
+.contebtMAIN h4 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    line-height: 1.3;
+    font-weight: 500;
+    color: #b98587;
+}
+
+.contebtMAIN p {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    line-height: 1.3;
+    font-weight: 500;
+}
+
+
+.contentLink {
+    margin: 20px 0px;
+}
+
+.contentLink a {
+    background-color: #C68888;
+    border-radius: 10px 10px 10px 10px;
+    color: #fff;
+    display: inline-block;
+    line-height: 1;
+    font-size: 15px;
+    padding: 12px 24px;
+    border-radius: 10px;
+    color: #fff;
+    fill: #fff;
+    text-align: center;
+    transition: all .3s;
+}
+
+.section2Divider.priceDivider {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.priceLeftContainer figure {
+    background: #fff;
+    text-align: center;
+    max-width: 100%;
+}
+
+.priceLeftContainer figure img {
+    border-style: double;
+    border-color: #A29793;
+    vertical-align: middle;
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0;
+    box-shadow: none;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+
+.figureCaption {
+    font-size: 12px;
+    font-style: italic;
+    padding: 5px 0px;
+}
+
+.containerInnerPrice {
+    padding: 10px;
+}
+
+.priceTopHeading {
+    color: #B6838A;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 20px;
+}
+
+.priceContainerWithImg {
+    display: flex;
+}
+
+.priceWithImgLeft {
+    width: 38.42%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.priceWithImgLeft figure>img {
+    max-width: 100%;
+}
+
+.priceWithRight {
+    width: 61.518%;
+    padding: 10px;
+}
+
+.priceWithImgLeft.price2Left,
+.priceWithRight.price2Right {
+    width: 50%;
+}
+
+.priceWithRightHeading,
+.headingBox2 {
+    font-size: 20px;
+    color: #BA8990;
+}
+
+.headingBox2 {
+    text-align: center;
+}
+
+.priceWithMainer {
+    margin-top: 30px;
+}
+
+.priceWithMainer h4 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.headingBoX2Main {
+    margin-top: 30px;
+}
+
+.headingBoX2Main h3 {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.headingBoX2Main p {
+    text-align: center;
+}
+
+.headingBoX2Main .big15 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 35px;
+    color: #BA8990;
+    font-weight: 500;
+}
+
+.headingBoX2Main .smallNumber {
+    margin-top: 15px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.priceContainerWithImg.priceContainerWithImg2 {
+    margin-top: 30px;
+}
+
+.imgPriceContainer {
+    margin-top: 80px;
+}
+
+.headingPrice3 {
+    text-align: center;
+    color: #BA8990;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.paraPrice3 p {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+}
+
+.priceImg {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.priceImg figure>img {
+    max-width: 100%;
+}
+
+.price4InnerContent h3 {
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: #b98587;
+    text-align: center;
+    font-weight: 600;
+}
+
+.price4InnerContent h4 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 600;
+    color: #b98587;
+}
+
+.price4InnerContent>div>p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.mapContainerFlex {
+    display: flex;
+    margin: 40px 0px 80px;
+
+}
+
+.mapFlexLeft,
+.mapFlexRight {
+    width: 50%;
+
+}
+
+.mapFlexLeftInner {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.leftMapHeading {
+    margin-bottom: 10px;
+
+}
+
+.leftMapHeading h3 {
+    font-size: 25px;
+    color: #BA8990;
+}
+
+.mapFb a {
+    font-size: 25px;
+    line-height: 25px;
+    width: 50px;
+    height: 50px;
+    box-shadow: none;
+    text-decoration: none;
+    background-color: #3b5998;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.mapFb a>i {
+    color: #fff;
+}
+
+.mapContentLast {
+    margin-top: 30px;
+}
+
+.nameMap {
+    margin-bottom: 20px;
+}
+
+.colori {
+    font-size: 19px;
+    font-weight: bold;
+    color: #BA8990;
+
+}
+
+.priceContainer,
+.priceContainer2,
+.price4Containerinner {
+
+    padding: 0px 15px;
+
+}
+
+.priceWithRightHeading h2,
+.headingBox2 h2 {
+    line-height: 30px;
+}
+
+@media(min-width:1200px) {
+
+    .priceContainer,
+    .priceContainer2,
+    .price4Containerinner {
+        width: 1200px;
+        max-width: 100%;
+        padding: 0px 15px;
+        margin: 0px auto;
+    }
+}
+
+@media(min-width:992px) {
+
+    .priceContainer,
+    .priceContainer2,
+    .price4Containerinner {
+        min-width: 990px;
+        max-width: 100%;
+        padding: 0px 15px;
+        margin: 0px auto;
+    }
+
+
+}
+
+@media(max-width:990px) {
+
+    .priceContainer,
+    .priceContainer2,
+    .price4Containerinner {
+        width: 790px;
+        max-width: 100%;
+        padding: 0px 15px;
+        margin: 0px auto;
+    }
+}
+
+@media(max-width:768px) {
+    .priceTopContainer {
+        flex-direction: column;
+    }
+
+    .priceLeftContainer {
+        width: 100%;
+    }
+
+    .priceRightCONTRAINER {
+        width: 100%;
+    }
+
+    .menuNavbarmobile {
+        padding: 0px 10px;
+    }
+
+    .menuNavbarmobile li a {
+        line-height: 24px;
+    }
+
+    .mapContainerFlex,
+    .priceContainerWithImg,
+    .priceContainerWithImg.priceContainerWithImg2 {
+        flex-direction: column;
+    }
+
+    .mapFlexRight,
+    .mapFlexLeft,
+    .priceWithImgLeft,
+    .priceWithRight,
+    .priceWithImgLeft.price2Left,
+    .priceWithRight.price2Right {
+        width: 100%;
+    }
+
+    .mapFlexRight {
+        margin-top: 20px;
+    }
+
+    .priceTopHeading {
+        margin-top: 40px;
+    }
+
+    h2 {
+        line-height: 30px;
+    }
+
+    .contebtMAIN h3,
+    .headingPrice3 {
+
+        line-height: 1.3;
+    }
+
+    .price4InnerContent {
+        padding: 0px 10px;
+    }
+
+    .mapContainer {
+        padding: 0px 10px;
+    }
+
+    .leftMapHeading h3 {
+        text-align: center;
+    }
+}
